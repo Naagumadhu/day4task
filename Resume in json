@@ -1,10 +1,10 @@
 `{
 Name: 'Nagappan m',
     Age: 27,
-        githubid: 'pugalmadhu5500',
+        githubid: 'Nagappanmadhu',
             contactdetails: {
     mail: 'pugalmadhu5500@gmail.com',
-        Phonenumber: 959746313,
+        Phonenumber: 9790154695,
             Address: 'mariyamman kovil street \n' +
                 '                maravadi post\n' +
                 '                dharmapuri\n' +
@@ -12,24 +12,18 @@ Name: 'Nagappan m',
 },
 Objective: 'To obtain resposible position in an origanization with best capabilities\n' +
     '        skills and knowledge',
-    Skills: 'javascript full stock developer',
+    Skills: 'full stock developer',
         Workexperience: 'Fresher',
             Academic: {
     school: {
-        sslc: 'Govt HS school\n                        mark - 417',
-            HS: 'Govt HS school\n                    mark - 1050'
+        sslc: 'Govt HS school\n                        mark - 277',
+            HS: 'Govt HS school\n                    mark - 621'
     },
     degree: {
-        title: 'bsc agriculture',
-            collage: 'kumaraguru institute of agriculture',
+        title: 'BE mechanical',
+            collage: 'shreenivasa engineering college',
                 passedoutyear: 2018,
-                    Ogpa: 8
+                    Ogpa: 6
     }
 },
-projet: {
-    tittle: 'Framer producer organization',
-        duration: '6months',
-            Extracaricularactivities: 'vollyball, cicket, kabadi',
-                hobbies: 'playing games, listening music, watching movies'
-}
 }`
